@@ -7,5 +7,3 @@ Also assess what it is that is driving the employees to leave.
 
 
 This was one of the first machine learning project I did, currently working to improve my earlier code.
-
-_**Staus :** Ongoing_
